@@ -122,3 +122,6 @@ Gerar um plano de MVP contendo:
 - Estratégia de validação inicial com usuários reais
 - Linguagem acessível e tom educativo, em português
 - Aplicação dos princípios de Design Universal desde o protótipo
+- Dark mode
+- lighting mode
+- 
